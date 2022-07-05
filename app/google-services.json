@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "357752241869",
+    "project_id": "fbstorage-e7b88",
+    "storage_bucket": "fbstorage-e7b88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357752241869:android:19af78c5f50bc392ccf384",
+        "android_client_info": {
+          "package_name": "com.example.android.fbstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357752241869-sckmac8l6ar5lmfo72ie618djoukj69f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.fbstorage",
+            "certificate_hash": "d32f161cd09c7fbc5e16c15872fef52bbd053882"
+          }
+        },
+        {
+          "client_id": "357752241869-2hnv1c2btemgp4a5dk3gm69q8g75o2n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_nRRkbL9r7kv1IwioKPZs8XJXEzhocfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357752241869-2hnv1c2btemgp4a5dk3gm69q8g75o2n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
